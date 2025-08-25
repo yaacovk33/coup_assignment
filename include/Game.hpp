@@ -1,4 +1,4 @@
-// yaaccovkrawiec@gmail.com
+// yaacovkrawiec@gmail.com
 
 #ifndef GAME_HPP
 #define GAME_HPP

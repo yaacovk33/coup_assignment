@@ -117,4 +117,4 @@ The project includes comprehensive unit tests covering:
 - Modular design with clear separation of concerns
 
 ## Author
-yaaccovkrawiec@gmail.com
+yaacovkrawiec@gmail.com

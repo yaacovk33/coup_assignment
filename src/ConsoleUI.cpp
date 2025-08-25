@@ -1,4 +1,4 @@
-// yaaccovkrawiec@gmail.com
+// yaacovkrawiec@gmail.com
 
 #include "../include/Game.hpp"
 #include "../include/Player.hpp"

@@ -1,4 +1,4 @@
-// yaaccovkrawiec@gmail.com
+// yaacovkrawiec@gmail.com
 
 #ifndef ROLE_HPP
 #define ROLE_HPP
